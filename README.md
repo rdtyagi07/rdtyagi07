@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am fond of Photography and Football #HALAMADRID
 -->
+
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rdtyagi07&show_icons=true&line_height=32&theme=radical)
+
