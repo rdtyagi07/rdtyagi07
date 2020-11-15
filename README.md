@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... AWS
 - 🤔 I’m looking for help with ... python
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [https://www.linkedin.com/in/rishabh-t-1bb8a4131/]()
+- 📫 How to reach me: ... Mail me at rishabh.dev.tyagi@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am fond of Photography and Football #HALAMADRID
 -->
